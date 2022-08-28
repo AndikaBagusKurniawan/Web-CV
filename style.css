@@ -84,7 +84,7 @@ body{
     padding: .4rem 0;
     display: flex;
     align-items: center;
-    color: #718096;
+    color: #18191a;
 }
 .contact-info ul li i{
     padding-right: 1rem;
@@ -198,7 +198,7 @@ body{
 
 .para{
     line-height: 1.6rem;
-    color: #7c8da7;
+    color: #252525;
     font-size: 1.1rem;
 }
 
@@ -446,5 +446,5 @@ body{
 .text{
     font-size: 17px;
     font-weight: 550;
-    color: #110a0a;
+    color: #121212;
 }
