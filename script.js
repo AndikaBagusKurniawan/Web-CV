@@ -2,7 +2,7 @@ let circularProgress = document.querySelector(".circular-progress"),
     progressValue = document.querySelector(".progress-value");
 
 let progressStartValue = 0,    
-    progressEndValue = 90,    
+    progressEndValue = 75,    
     speed = 10;
     
 let progress = setInterval(() => {
@@ -22,7 +22,7 @@ let circularProgress2 = document.querySelector(".circular-progress2"),
 progressValue2 = document.querySelector(".progress-value2");
 
 let progressStartValue2 = 0,    
-progressEndValue2 = 65,    
+progressEndValue2 = 65;    
 speed2 = 10;
 
 let progress2 = setInterval(() => {
@@ -41,7 +41,7 @@ let circularProgress3 = document.querySelector(".circular-progress3"),
 progressValue3 = document.querySelector(".progress-value3");
 
 let progressStartValue3 = 0,    
-progressEndValue3 = 65,    
+progressEndValue3 = 60;    
 speed3 = 10;
 
 let progress3 = setInterval(() => {
@@ -61,7 +61,7 @@ let circularProgress4 = document.querySelector(".circular-progress4"),
 progressValue4 = document.querySelector(".progress-value4");
 
 let progressStartValue4 = 0,    
-progressEndValue4 = 75,    
+progressEndValue4 = 50;    
 speed4 = 10;
 
 let progress4 = setInterval(() => {
@@ -100,8 +100,8 @@ if(progressStartValue5 == progressEndValue5){
 let circularProgress6 = document.querySelector(".circular-progress6"),
 progressValue6 = document.querySelector(".progress-value6");
 
-let progressStartValue6 = 0,    
-progressEndValue6 = 39,    
+let progressStartValue6 = 0,   
+progressEndValue6 = 60;    
 speed6 = 10;
 
 let progress6 = setInterval(() => {
